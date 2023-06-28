@@ -5,7 +5,7 @@
 
 # Installation
 1. Clone the repository 
-   ### git clone https://github.com/harsh1424/Bakery_freelancing.git
+   ### git clone https://github.com/Siddharth222001/bakeryproject
    Or, you can download the Zip file from code section then extract the file in your react app folder and in terminal run below Commands
    
 3. Navigate to the project directory.
